@@ -1,3 +1,3 @@
 package value
 
-const Value = "pkg constants"
+const Value = "pkg value"
